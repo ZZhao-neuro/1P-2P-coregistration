@@ -10,9 +10,9 @@ Pacakges can be installed in a jupyterlab cell with python 3 kernel.
 For jupyterlab installation, 
 First install homebrew package manager (https://brew.sh), by following their instructions.
 Then run these codes in a terminal
-`brew install pipx
-pipx install jupyterlab –include-deps`
+`brew install pipx`
+`pipx install jupyterlab –include-deps`
 
-To run jupyterlab, run 'jupyter-lab' in a terminal
+To run jupyterlab, run `jupyter-lab` in a terminal.
 
 **Demo and instructions for use**
